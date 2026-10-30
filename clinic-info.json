@@ -1,0 +1,17 @@
+{
+  "clinicName": "Visnu P. Pediatric Dental Clinic",
+  "doctorName": "Dr. Visnu P.",
+  "tagline": "Little smiles, cared for gently.",
+  "location": "Clinic address to be added by the clinic team",
+  "phone": "Clinic phone number to be added by the clinic team",
+  "hours": "Clinic hours to be added by the clinic team",
+  "services": ["Children’s dental check-ups", "Preventive dental care", "Parent and caregiver education"],
+  "faqs": [
+    {"question":"How do I book a visit?","answer":"Please contact the clinic team directly to ask about appointments. The clinic phone number has not been added yet."},
+    {"question":"Where is the clinic?","answer":"The clinic address has not been added yet. Please contact the clinic team for directions."},
+    {"question":"What are the clinic hours?","answer":"The clinic hours have not been added yet. Please contact the clinic team before visiting."},
+    {"question":"What should we bring to a first visit?","answer":"Please contact the clinic team for its current first-visit checklist. It can vary by clinic."},
+    {"question":"What ages does the clinic see?","answer":"This is a pediatric dental clinic. Please contact the clinic team to confirm whether it is a fit for your child."},
+    {"question":"Can you tell me what to do about tooth pain or an injury?","answer":"This chat can’t assess symptoms or recommend treatment. Please contact a qualified dental professional directly. If your child may be in immediate danger, contact your local emergency service."}
+  ]
+}

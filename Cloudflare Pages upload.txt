@@ -1,0 +1,8 @@
+Cloudflare Pages upload for Little Smiles
+
+1. Sign in to a free Cloudflare account.
+2. Open Workers & Pages, choose Create application, then Pages / Direct Upload.
+3. Name the project (for example: little-smiles-clinic) and upload Little-Smiles-Cloudflare-Pages.zip.
+4. Deploy. Cloudflare will show the public .pages.dev URL.
+
+This upload is the static preview: the clinic guide works, while appointment and team requests are only stored in the visitor’s browser. It does not deploy the Node server or a live AI/backend.

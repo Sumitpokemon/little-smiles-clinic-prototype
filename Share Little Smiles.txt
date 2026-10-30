@@ -1,0 +1,7 @@
+Little Smiles Children’s Dental Clinic
+
+Live website: https://little-smiles-child-clinic.pages.dev/
+
+Share the link above or use Little Smiles share QR.png.
+
+The clinic guide assistant answers common questions. In this static hosted version, appointment requests and team messages are saved only in each visitor’s browser; they are not sent to clinic staff.
